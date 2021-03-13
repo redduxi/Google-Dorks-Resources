@@ -1,11 +1,11 @@
 # Google-Search
 Operators for google search, list of dorks, resources for advanced google search.
 
-
 About Google hacking:
+
 https://en.wikipedia.org/wiki/Google_hacking
 
-Google dorks database and lists:
+## Google dorks database and lists:
 - https://www.exploit-db.com/google-hacking-database
 - https://www.cybersecuritywebtest.com/google-hacking-database/
 - https://geekwire.eu/ghdb/
@@ -17,12 +17,12 @@ Google dorks database and lists:
 - https://github.com/BullsEye0/google_dork_list
 - https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf
 
-Search operators:
+## Search operators:
 - https://support.google.com/vault/answer/2474474?hl=en#zippy=%2Cgoogle-voice-search-operators - Gmail, classic Hangouts, Google Groups, Drive, Google Chat, Google Voice search operators
 - https://support.google.com/mail/answer/7190?hl=en - Search operators you can use with Gmail
 - https://supple.com.au/tools/google-advanced-search-operators/
 
-Some tools:
+## Some tools:
 - https://pentest-tools.com/information-gathering/google-hacking
 - https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
 - https://github.com/opsdisk/pagodo
