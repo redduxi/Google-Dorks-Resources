@@ -24,5 +24,10 @@ Operators for google search, list of dorks, resources for advanced google search
 - [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 - [pagodo](https://github.com/opsdisk/pagodo)
 
+## YouTube Video:
+- [Find Vulnerable Services & Hidden Info Using Google Dorks (Tutorial)](https://youtu.be/u_gOnwWEXiA)
+- [Google Dorks For Penetration Testing](https://youtu.be/cFOBUYaxdWI)
+- [Google HACKING (use google search to HACK!)](https://youtu.be/hrVa_dhD-iA)
+- [Google Search Like a Hacker (Tutorial)](https://youtu.be/z8_qz938wFU)
 
 The information is provided for informational purposes only.
