@@ -3,6 +3,12 @@ Operators for google search, list of dorks, resources for advanced google search
 
 [About Google hacking](https://en.wikipedia.org/wiki/Google_hacking)
 
+## Table on Contents
+- [Google dorks database and lists](https://github.com/redduxi/Google-Dorks-Resources#google-dorks-database-and-lists)
+- [Search operators](https://github.com/redduxi/Google-Dorks-Resources#search-operators)
+- [Some tools](https://github.com/redduxi/Google-Dorks-Resources#some-tools)
+- [YouTube Video](https://github.com/redduxi/Google-Dorks-Resources#youtube-video)
+
 ## Google dorks database and lists:
 - [Exploit-db - Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [Cybersecuritywebtest - Google Hacking Database](https://www.cybersecuritywebtest.com/google-hacking-database/)
