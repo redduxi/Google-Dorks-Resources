@@ -15,6 +15,9 @@ Operators for google search, list of dorks, resources for advanced google search
 - [Liste Google Hacking.pdf(Web archive)](https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf)
 - [bugbountyDorks](https://github.com/shifa123/bugbountyDorks)
 - [SQL injection dorks list](https://github.com/rootac355/SQL-injection-dorks-list)
+- [Google Hacking Dorks 2022](https://hackersonlineclub.com/google-hacking/)
+- [GitHub Dorks for Finding Files](https://kathan19.gitbook.io/howtohunt/sensitive-info-leaks/github-dorks)
+- [Google Dorks List and Updated Database for Files Containing Passwords in 2022](https://www.boxpiper.com/posts/google-dork-list-files-password)
 
 ## Search operators:
 - [Google Dorks Operators Collection](https://github.com/redduxi/Google-Dorks-Resources/blob/main/Search%20Operators.pdf)
