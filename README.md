@@ -34,7 +34,7 @@ Operators for google search, list of dorks, resources for advanced google search
 - [Shodan Dorks](https://github.com/humblelad/Shodan-Dorks)
 
 ## Some tools:
-- [google acking](https://pentest-tools.com/information-gathering/google-hacking)
+- [google hacking](https://pentest-tools.com/information-gathering/google-hacking)
 - [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 - [pagodo](https://github.com/opsdisk/pagodo)
 - [BinGoo](https://github.com/Hood3dRob1n/BinGoo)
